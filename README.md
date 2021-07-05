@@ -18,4 +18,3 @@ The Constellations Client provides a simple front-end for a RESTful Constellatio
 
 ![Application preview](./app-preview.png)
 "# constellations-server" 
-"Kiarra Gibbs"
